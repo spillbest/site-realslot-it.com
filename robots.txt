@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://realslot-it.com/sitemap.xml
